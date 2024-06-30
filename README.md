@@ -1,5 +1,5 @@
 
-_(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this page, and all kinds of details and facts in Go)._
+_(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this page, and all kinds of details and facts in Go)._
 
 ----
 
@@ -34,7 +34,7 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
 
-[GoVCL](https://github.com/ying32/govcl) is a native GUI library based on [Lazarus](https://www.lazarus-ide.org/).
+[GoVCL](https://github.com/ying32/govcl) is a native GUI library based on [liblcl](https://github.com/ying32/liblcl).
 
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
@@ -74,6 +74,8 @@ core X protocol and many of the X extensions.
 [zenity](https://github.com/ncruces/zenity) is a cross-platform package providing [Zenity](https://help.gnome.org/users/zenity/stable/)-like dialogs.
 
 ### HTML based GUI
+
+[Apptron](https://github.com/tractordev/apptron) gives you webview windows and common platform APIs for your simple scripts, homebrew utilities, or full applications.
 
 [Go-app](https://github.com/maxence-charriere/go-app) is a package for building progressive web apps (PWA) with the Go programming language (Golang) and WebAssembly (Wasm).
 
